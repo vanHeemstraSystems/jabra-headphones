@@ -1,5 +1,5 @@
-# jabra-headphones
-Jabra Headphones
+jabra-headphones
+# Jabra Headphones
 
 # What can I do if the pairing steps are not successful?
 If the pairing steps are not successful, try the following troubleshooting steps. Try re-pairing after you complete each troubleshooting step.
