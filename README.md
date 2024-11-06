@@ -1,6 +1,8 @@
 jabra-headphones
 # Jabra Headphones
 
+> The middle button on the right hand side of the Jabra headphones (between the Volume Up and Down buttons) is the Bluetooth Pairing button. Hold it down for approximately 5 seconds and see the blue light at the back of it light up. It functions also as the Power On / Power Off button of the headphone.
+
 # What can I do if the pairing steps are not successful?
 If the pairing steps are not successful, try the following troubleshooting steps. Try re-pairing after you complete each troubleshooting step.
 
